@@ -58,3 +58,29 @@ body{
 .hr{
     color: gray;
 }
+
+.h3-second-style{
+    font-weight: bolder;
+    color: #218838;
+}
+
+.about_pic{
+    border: 2px solid #28a745;
+    border-radius: 2px;
+    padding: 1px;
+    width: 200px;
+}
+
+.h5-style{
+    font-size: 20px;
+}
+
+.btn3-color{
+    color: #28a745;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.icon-style{
+    size: 100px;
+}
