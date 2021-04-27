@@ -64,6 +64,18 @@ body{
     color: #218838;
 }
 
+/*
+.h3-second-style ::after{
+    content: "";
+	display: block;
+	height: .4rem;
+	background: black;
+	width: 8.6rem;
+	margin: auto;
+	margin-top: 2rem;
+}
+*/
+
 .about_pic{
     border: 2px solid #28a745;
     border-radius: 2px;
@@ -82,5 +94,12 @@ body{
 }
 
 .icon-style{
-    size: 100px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 50px;
+    text-align: center;
+    color: #28a745;
 }
